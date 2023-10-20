@@ -6,6 +6,7 @@ HealthCottage offers a trifecta of vital features.
 1. Heart Disease Prediction
 2. Malaria Disease Prediction
 3. Information on Heart Disease and Malaria Disease
+
 You can harness the power of predictive analysis to determine your heart disease or malaria status. Or simply delve deeper and explore detailed information about these two health concerns.
 
 # Project Objective
